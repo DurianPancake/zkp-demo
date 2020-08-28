@@ -7,7 +7,7 @@
     <groupId>cn.durian</groupId>
     <artifactId>zkp-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>zookeeper-demo</name>
+    <name>zkp-demo</name>
     <packaging>pom</packaging>
 
     <parent>
@@ -70,6 +70,6 @@
         </pluginManagement>
     </build>
     <modules>
-
+        <module>zkp-api-demo</module>
     </modules>
 </project>
